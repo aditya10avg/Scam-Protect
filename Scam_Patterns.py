@@ -159,8 +159,10 @@ def run_real_time_monitoring(api_key):
 
 # Example usage
 if __name__ == "__main__":
-    api_key = "asst_7EvmnUf8QAjBqr069EAKqCAp"  
+    api_key = ""  
     run_real_time_monitoring(api_key)
 
 # Restore stderr
 sys.stderr = stderr
+
+                
