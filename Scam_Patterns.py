@@ -38,7 +38,7 @@ def is_suspicious(client, conversation_text):
         response = client.chat.completions.create(
             model="gpt-4",
             messages=[
-                {"role": "system", "content": "You are an expert in identifying suspicious patterns in phone calls. Analyze the following conversation and determine if it seems suspiciou.If suspicious just give a word suspicious in output."},
+                {"role": "system", "content": "You are an expert in identifying suspicious patterns in phone calls.The usual patterns are -asking for confidential details which are not to be shared among people like credit card details in the name of verification or using some very technical concepts to trick user. Analyze the following conversation and determine if it seems suspicious.If suspicious just give a single word suspicious in output."},
                 {"role": "user", "content": conversation_text}
             ]
         )
@@ -159,7 +159,7 @@ def run_real_time_monitoring(api_key):
 
 # Example usage
 if __name__ == "__main__":
-    api_key = ""  
+    api_key = "asst_Huc24BXzLchNMEhI2Sx0EAJy"  
     run_real_time_monitoring(api_key)
 
 # Restore stderr
