@@ -19,7 +19,7 @@ This project monitors and analyzes phone conversations for signs of suspicious o
 
 ## Setup Instructions
 ### Prerequisites
-1. **Python 3.x**: Ensure that you have Python installed. You can download it from [python.org](https://www.python.org/downloads/).
+1. **Python 3.x**: Ensure that you have Python installed. You can download it from [python.org](https://www.python.org/downloads/).I used Python 3.12.
 2. **OpenAI API Key**: Obtain an OpenAI API key from [OpenAI's website](https://beta.openai.com/signup/).
 3. **Python Libraries**: The following Python libraries are required:
    - `openai`
