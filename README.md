@@ -49,3 +49,9 @@ This project monitors and analyzes phone conversations for signs of suspicious o
 
 ## Reference 
 Use ``` scam_project_doc.odt ``` file to understand some other things like virtual environment creation etc which I used while building.
+
+
+## Contributors 
+Aditya - @aditya10avg
+Dev Rai - @dev-rai1
+Nuhayd
