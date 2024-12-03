@@ -55,3 +55,7 @@ Use ``` scam_project_doc.odt ``` file to understand some other things like virtu
 Aditya - @aditya10avg
 Dev Rai - @dev-rai1
 Nuhayd
+
+
+## Next Step 
+Integrate the code that transcribes a call in real-time but for Twilio. If it starts working then we will move for any ordinary call. 
