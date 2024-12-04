@@ -59,3 +59,5 @@ Nuhayd
 
 ## Next Step 
 Integrate the code that transcribes a call in real-time but for Twilio. If it starts working then we will move for any ordinary call. 
+
+## Twilio API is required
