@@ -61,3 +61,7 @@ Nuhayd
 Integrate the code that transcribes a call in real-time but for Twilio. If it starts working then we will move for any ordinary call. 
 
 ## Twilio API is required
+
+
+## For collaboration 
+To collaborate with us on this project, reach out to us on LinkedIn[https://www.linkedin.com/company/detectify1/?viewAsMember=true]
