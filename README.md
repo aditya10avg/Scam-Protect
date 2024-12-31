@@ -65,3 +65,4 @@ Integrate the code that transcribes a call in real-time but for Twilio. If it st
 
 ## For collaboration 
 To collaborate with us on this project, reach out to us on LinkedIn[https://www.linkedin.com/company/detectify1/?viewAsMember=true]
+In next phase, I will work with Twilio for creating demo.
